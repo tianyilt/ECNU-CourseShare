@@ -74,13 +74,25 @@ git clone --depth=1 https://hub.fastgit.org/tianyilt/ecnu-CourseShare.git
 - TODO开卷考试 A4 纸
 - 教师课件
 
-
-
 [文件结构](./doc/文件结构.md)
+
+
+
+## 参考项目
+
+* [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+* [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles )
+* [中国科技大学课程攻略共享计划](https://ustc-resource.github.io/USTC-Course/)
+* [上海交通大学求生手册（雾）](https://github.com/SurviveSJTU/SurviveSJTUManual)
+* [北大CS自学手册](https://csdiy.wiki/)
+
+
+
+
 
 ## 致谢名单
 
-- 以@BillChen,为代表的奆佬帮助（现在不知道奆佬们的Github用户名，所以暂时用姓拼音加名首字母代指）
+- 以@BillChen为代表的奆佬帮助（现在不知道奆佬们的Github用户名，所以暂时用姓拼音加名首字母代指）
 
 ## 许可
 
