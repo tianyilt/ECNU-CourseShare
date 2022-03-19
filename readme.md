@@ -22,10 +22,10 @@ ECNU Course Share Project
 由于资料库比较大,可以在命令行中通过github的镜像来快速克隆，预计半小时就可以所有资料下载到本地，然后配合everything等文件检索工具来查找需要的资料。
 
 ```
-git clone --depth=1 https://hub.fastgit.org/tianyilt/ecnu-CourseShare.git
+git clone --depth=1 https://hub.fastgit.org/tianyilt/ECNU-CourseShare.git
 ```
 
-如果想在线快速浏览文件,可以访问`https://github1s.com/tianyilt/ecnu-CourseShare`, 可以体验在vscode里面看文件的感觉
+如果想在线快速浏览文件,可以访问`https://github1s.com/tianyilt/ECNU-CourseShare`, 可以体验在vscode里面看文件的感觉
 
 
 ## 前言
@@ -76,7 +76,45 @@ git clone --depth=1 https://hub.fastgit.org/tianyilt/ecnu-CourseShare.git
 
 [文件结构](./doc/文件结构.md)
 
+## TODOlist 
+TODOlist表示计划进一步撰写、细化的部分
+- [ ] 向没有git基础的广大同学介绍简便使用方式
+    - [x] 下载
+    - [X] 同步 百度网盘连着git下载**想clone的同学可以先在百度网盘上把库连着.git文件夹一起下载下来.然后修改上游为fork的仓库,然后fetch一下.百度网盘被设置为备份盘,理论上是保持一致的,有不一致就pull一下,以上操作在github desktop中轻松搞定**
+    - [ ] 贡献 拉个群然后口口相传中，毕竟这个git学习成本放那里。
+- [x] 移动设备中简单使用优化
+    - [x] 百度网盘使用
+    - [ ] 安利app
+    - [x] NAS的链接真好用(`http://gofile.me/6KieW/ezEKFle3g`)
+- [x] 解决github下载速度感人至深 
+    - [x] 买15M校园网
+    - [x] 百度网盘
+    - [x] 硬盘直拷
+- [x] 解决单独部分文件下载的问题
+    - [x] 在网页上用[downgit](http://zhoudaxiaa.gitee.io/downgit/#/home)下载
+    - [x] 百度网盘
+    - [x] 用软件TortoiseSVN下载
+- [ ] 制作项目文档，形成作品网站,参考[中科大的项目](https://ustc-resource.github.io/USTC-Course/)
+- [x] 邀请志同道合者,
+- [ ] **形成项目传承长效机制，每一位来到学校的同学都能享受历年传承的攻略并可以贡献自己的智慧。**
 
+## 贡献规范
+
+***非常欢迎贡献!***
+
+***非常欢迎贡献!***
+
+***非常欢迎贡献!***
+
+Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
+
+来自大家的关注、维护和贡献，才是让这个攻略共享计划存在的动力~
+
+贡献需要注意如下几点:
+
+- 本仓库未启用`git-lfs`，请不要上传单个超过100M的文件，否则commit无效。
+- 参考[文件结构](./doc/文件结构.md)进行贡献,如果有建议,欢迎开个issue讨论.
+- 对于教师的评价请一律使用姓名拼音首字母缩写.
 
 ## 参考项目
 
