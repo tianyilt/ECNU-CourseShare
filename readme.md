@@ -125,7 +125,8 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 * [北大CS自学手册](https://csdiy.wiki/)
 
 
-
+## 传送门
+* [nemotte大佬的博客](https://www.nemotte.cn/wordpress/?p=440)
 
 
 ## 致谢名单
